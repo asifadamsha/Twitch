@@ -16,7 +16,6 @@ const Header = () => {
           <GoogleAuth />
         </Link>
       </div>
-      >
     </div>
   );
 };
